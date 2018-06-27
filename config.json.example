@@ -1,0 +1,7 @@
+{
+    "local": "127.0.0.1:8082",
+    "proxy": "10.60.15.9:6009",
+    "proxytype": "socks5",
+    "autoproxy": true,
+    "timeout": 1000
+}
